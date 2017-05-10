@@ -8,6 +8,7 @@
 * 44 - Advance Templating
 * 45 - Express Middleware
 * 46 - Adding Version Control (Git)
+* 47 - Setting Up GitHub & SSH Keys
 
 # Node Modules
 * npm install express@4.14.0 --save

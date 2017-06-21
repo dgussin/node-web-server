@@ -10,6 +10,7 @@
 * 46 - Adding Version Control (Git)
 * 47 - Setting Up GitHub & SSH Keys
 * 48 - Deploying Your Apps
+* 49 - Adding a New Feature and Deploying
 
 # Node Modules
 * npm install express@4.14.0 --save
